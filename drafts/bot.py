@@ -32,4 +32,4 @@ async def on_message(message):
                 # embed.add_field(name='Ceci est un message en rouge', value='Hello World!', inline=False)
                 await message.channel.send(embed=discord.Embed(title=number, color=colors[color]))
 
-client.run("MTA5MTMzODg5Njk2NjY4MDY2Ng.G0fbwb.nqXVunkNWO2vP_3i8gP-N6lpW7ij2SCvBV5PqY")
+client.run()
