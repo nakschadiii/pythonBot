@@ -1,0 +1,5 @@
+liste chainée - historique [fait]
+hashmap - lier chaque user à son ID [fait]
+arbre - discussion avec chat
+sauvegarde - dans un fichier JSON [fait]
+queue - execution fonctions tour à tour
